@@ -1,0 +1,4 @@
+Instruction of the file organization
+=====================================
+The tdt4 sound files which is contained in sph folder, should be put directly in this directory.
+To be more specific, /tdt4/sph should contain all the sound files and they are in subfolders such as /tdt4/sph/CBS_MAN.
